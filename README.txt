@@ -1,3 +1,3 @@
-Voici le fichier de prsentation du projet géré par Git sur GitHub !
+Voici le fichier de présentation du projet géré par Git sur GitHub !
 
 
